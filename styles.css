@@ -1,0 +1,24 @@
+img {
+    max-height: 150px;
+    height: auto;
+}
+h1 {
+    font-family: "Times New Roman", serif; 
+    font-size: 3rem;
+}
+body {
+    font-family: "Arial", serif;
+}
+table {
+    font-size: 1rem;
+}
+th {
+    font-size: 1.07rem; 
+}
+td {
+    font-size: 0.95rem;
+}
+th, td {
+    text-align: center;
+    vertical-align: middle;
+}

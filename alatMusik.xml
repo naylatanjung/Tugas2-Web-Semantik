@@ -1,0 +1,332 @@
+<alatMusik>
+<alatMusikTradisional>
+    <gambar>img\SaruneKale.jpeg</gambar>
+    <nama>Seruna Kalee</nama>
+    <asal>Aceh</asal>
+    <bahan>Kayu, tembaga, dan bambu</bahan>
+    <caraMain>Ditiup</caraMain>
+    <kategori>Aerofon</kategori>
+    <abstrak>Serune Kalee merupakan alat musik tiup tradisional Aceh yang berperan penting dalam upacara dan upacara keagamaan. Suara yang dihasilkan menyerupai seruling dengan nada yang tinggi</abstrak>
+</alatMusikTradisional>
+    
+<alatMusikTradisional>
+    <gambar>img\gondang.jpg</gambar>
+    <nama>Gondang</nama>
+    <asal>Sumatera Utara</asal>
+    <bahan>Kayu dan Kulit Hewan</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Membranofon</kategori>
+    <abstrak> Gondang adalah alat musik tradisional batak toba yang digunakan dalam upacara adat untuk memanggil roh leluhur atau saat perayaan tertentu. Musiknya biasanya berirama dinamis.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\doli-doli.jpg</gambar>
+    <nama>Doli-doli</nama>
+    <asal>Sumatera Utara (nias)</asal>
+    <bahan>Kayu</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Doli-doli adalah alat musik yang terbuat dari potongan kayu yang dipukul. Alat musik ini digunakan dalam rutual adat di Nias dan menghasilkan suara unik dari pantulan kayu.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\GondangMelayu.jpg</gambar>
+    <nama>Gendang Melayu</nama>
+    <asal>Sumatera Utara (Melayu Deli)</asal>
+    <bahan>Kayu dan Kulit Hewan</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Membranofon</kategori>
+    <abstrak>Gendang melayu digunakan sebagai instrumen utama dalam musik tradisional Melayu. Alat ini dimainkan dalam berbagai kesempatan, seperti perayaan dan ritual adat.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\talempong.jpeg</gambar>
+    <nama>Talempong</nama>
+    <asal>Sumatera Barat</asal>
+    <bahan>Logam atau Kayu</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Talempong adalah alat musik perkusi berbentuk bulat yang sering dimainkan dalam berbagai upacara adat Minangkabau dan merupakan bagian dari orkestra tradisional.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\saluang.jpg</gambar>
+    <nama>Saluang</nama>
+    <asal>Sumatera Barat (Minangkabau)</asal>
+    <bahan>Bambu</bahan>
+    <caraMain>Ditiup</caraMain>
+    <kategori>Aerofon</kategori>
+    <abstrak>Saluang adalah alat musik tiup tradisional yang sering digunakan dalam acara-acara adat dan seni pertunjukan Minangkabau. Suaranya yang lembut dan mendayu-dayu cocok untuk mengiringi lagu-lagu tradisional.</abstrak>
+</alatMusikTradisional>
+    
+<alatMusikTradisional>
+    <nama>Kompang</nama>
+    <gambar>img\kompang.jpg</gambar>
+    <asal>Sumatera Selatan dan Riau</asal>
+    <bahan>Kayu dan Kulit Hewan</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Membranofon</kategori>
+    <abstrak>Kompang adalah alat musik perkusi yang sering dimainkan dalam kelompok, terutama dalam perayaan agama atau acara adat. Musiknya bertempo cepat dan biasanya dimainkan untuk mengiringi nyanyian atau tarian kelompok.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\arbab.jpg</gambar>
+    <nama>Arbab</nama>
+    <asal>Sumatera Selatan</asal>
+    <bahan>Kayu, Dawai, dan Kulit Hewan</bahan>
+    <caraMain>Digesek</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Arbab adalah alat musik gesek yang sering digunakan dalam seni pertunjukan tradisional Sumatera Selatan, seperti dalam kesenian rakyat. Biasanya dimainkan untuk mengiringi nyanyian atau tarian.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\angklung.jpeg</gambar>
+    <nama>Angklung</nama>
+    <asal>Jawa Barat</asal>
+    <bahan>Bambu</bahan>
+    <caraMain>Digoyangkan</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Angklung (bahasa Sunda: ᮃᮀᮊᮣᮥᮀ) adalah alat musik dari suku Sunda di Indonesia yang terbuat dari sejumlah tabung bambu yang diikatkan pada rangka bambu. Tabung-tabung tersebut diukir agar memiliki nada resonansi saat dipukul dan disetel ke oktaf, mirip dengan lonceng tangan Barat.</abstrak>
+</alatMusikTradisional> 
+
+<alatMusikTradisional>
+    <gambar>img\suling.jpeg</gambar>
+    <nama>Suling</nama>
+    <asal>Jawa Barat</asal>
+    <bahan>Bambu</bahan>
+    <caraMain>Ditiup</caraMain>
+    <kategori>Aerofon</kategori>
+    <abstrak>Suling adalah alat musik tiup tradisional berbentuk bulat yang terbuat dari bambu. Suling khas Jawa Barat dibagi menjadi dua jenis berdasarkan jumlah lubangnya, yang pertama adalah sulit empat lubang dan suling enam lubang.</abstrak>
+</alatMusikTradisional> 
+
+<alatMusikTradisional>
+    <gambar>img\jengglong.jpg</gambar>
+    <nama>Jengglong</nama>
+    <asal>Jawa Barat</asal>
+    <bahan>Logam</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Jengglong merupakan alat musik khas Jawa Barat yang bentuknya mirip seperti gong dan dimainkan dengan cara dipukul. Bedanya, Jengglong mempunyai ukuran yang lebih kecil dari gong. Biasanya alat musik yang satu ini berperan sebagai pembuat kerangka lagu dan nada dasar dalam seni gamelan.</abstrak>
+</alatMusikTradisional> 
+
+<alatMusikTradisional>
+    <gambar>img\kecapi.jpeg</gambar>
+    <nama>Kecapi</nama>
+    <asal>Jawa Barat</asal>
+    <bahan>Kayu</bahan>
+    <caraMain>Dipetik</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Kecapi merupakan alat musik petik khas Jawa Barat yang bentuknya kotak dan terbuat dari kayu. Kecapi khas Sunda terbagi menjadi dua jenis, yakni kecapi rincik dan kecapi indung.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\siter.jpeg</gambar>
+    <nama>Siter</nama>
+    <asal>Jawa Tengah</asal>
+    <bahan>Kayu, Kawat, dan Paku</bahan>
+    <caraMain>Dipetik</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Siter adalah salah satu alat musik tradisional asli Indonesia yang digunakan dalam rangkaian gamelan Jawa. Rangka siter terbuat dari kayu dan kawat. Sumber bunyi siter berasal dari string kawat yang ada di alat musik tersebut</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\bonang.jpg</gambar>
+    <nama>Bonang</nama>
+    <asal>Jawa Tengah</asal>
+    <bahan>Logam</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Bonang merupakan alat musik pukul khas Jawa Tengah yang dibuat dari kuningan, besi, atau perunggu. Untuk memainkannya, dibutuhkan sebuah pemukul khusus yang terbuat dari kayu yang sudah dilapisi dengan karet atau kain. Bonang terbagi menjadi dua jenis berdasarkan ukurannya. Yang pertama adalah bonang barung yang ukurannya lebih besar dan bonang penerus yang ukurannya lebih kecil.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\saronen.jpeg</gambar>
+    <nama>Saronen</nama>
+    <asal>Jawa Timur</asal>
+    <bahan>Kayu</bahan>
+    <caraMain>Ditiup</caraMain>
+    <kategori>Aerofon</kategori>
+    <abstrak>Saronen merupakan alat musik tradisional asal Madura yang panjangnya mencapai 40 cm dan dimainkan dengan cara ditiup. Seperti suling, untuk mengatur nada-nada yang dihasilkan, pemainnya harus menggunakan jari tangan.</abstrak>
+</alatMusikTradisional> 
+
+<alatMusikTradisional>
+    <gambar>img\kempul.jpg</gambar>
+    <nama>Kempul</nama>
+    <asal>Jawa Timur</asal>
+    <bahan>Logam</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Kempul (bahasa Jawa: ꦏꦼꦩ꧀ꦥꦸꦭ꧀) merupakan salah satu perangkat dalam gamelan yang ditabuh, termasuk dalam keluarga gong. Alat musik ini digantung seperti halnya gong serta termasuk bagian dari kelompok instrumen keras dari gamelan.</abstrak>
+</alatMusikTradisional> 
+
+<alatMusikTradisional>
+    <gambar>img\ketipung.jpg</gambar>
+    <nama>Ketipung</nama>
+    <asal>Jawa Timur</asal>
+    <bahan>Kayu dan Kulit</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Membranofon</kategori>
+    <abstrak>Ketipung adalah alat musik tradisional Jawa Timur yang berbentuk menyerupai Gendang tetapi memiliki ukuran lebih kecil. Ketipung dibuat dari kayu yang dibubut, kemudian kemudian diberi lubang di tengahnya berukuran 20cm hingga 40 cm. Bunyi yang dihasilkan biasanya menghasilkan musik Keroncong, Dangdut, dan Melayu.</abstrak>
+</alatMusikTradisional> 
+
+<alatMusikTradisional>
+    <gambar>img\gong.jpg</gambar>
+    <nama>Gong</nama>
+    <asal>Kalimantan</asal>
+    <bahan>Logam</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Gong memiliki peranan penting dalam berbagai upacara adat dan perayaan, menciptakan irama yang mendukung pertunjukan seni.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\sape.jpeg</gambar>
+    <nama>Sape</nama>
+    <asal>Kalimantan Timur</asal>
+    <bahan>Kayu dan Senar</bahan>
+    <caraMain>Dipetik</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Sape adalah alamat musik yang sering digunakan dalam upacara adat dan pertunjukan budaya.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\tifa.jpeg</gambar>
+    <nama>Tifa</nama>
+    <asal>Kalimantan Timur</asal>
+    <bahan>Kayu dan Kulit Hewan</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Tifa memiliki suara yang khas dan sering menjadi pengiring dalam berbagai acara, menggambarkan kebudayaan suku-suku di Kalimantan</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\rebab.jpeg</gambar>
+    <nama>Rebab</nama>
+    <asal>Kalimantan Tengah</asal>
+    <bahan>Kayu dan senar</bahan>
+    <caraMain>Digesek</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Rebab memiliki suara yang unik dan sering digunakan dalam acara penting, menyampaikan nuansa budaya yang mendalam.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\talempong.jpeg</gambar>
+    <nama>Talempong</nama>
+    <asal>Kalimantan Tengah</asal>
+    <bahan>Logam</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Talempong sering digunakan dalam pertunjukan tari dan ritual. Suaranya yang khas menciptakan suasana yang meriah dan harmonis.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\kendang.jpeg</gambar>
+    <nama>Kendang</nama>
+    <asal>Kalimantan Barat</asal>
+    <bahan>Kayu dan Kulit Hewan</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Kendang memberikan ritme yang kuat dalam berbagai pertunjukkan tari dan musik, menciptakan interaksi antara pemain dan penonton.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+
+    <nama>Serunai</nama>
+    <gambar>img\serunai.jpeg</gambar>
+    <asal>Kalimantan Selatan</asal>
+    <bahan>Bambu</bahan>
+    <caraMain>Ditiup</caraMain>
+    <kategori>Aerofon</kategori>
+    <abstrak>Serunai sering digunakan dalam pertunjukan tradisional untuk menyampaikan pesan dan cerita.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\kecapi2.jpeg</gambar>
+    <nama>Kecapi</nama>
+    <asal>Kalimantan Selatan</asal>
+    <bahan>Kayu dan senar</bahan>
+    <caraMain>Dipetik</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Kecapi digunakan untuk mengiringi lagu lagu tradisional dan tari, menciptakan melodi yang indah dan harmonis</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+<nama>piu-piu </nama>
+    <gambar>img\piupiu.jpg</gambar>
+    <asal>Sulawesi selata</asal>
+    <bahan>Kayu wange</bahan>
+    <caraMain>Ditiup</caraMain>
+    <kategori>Aerofon</kategori>
+    <abstrak>Kolintang adalah alat musik perkusi yang unik dari Sulawesi Utara. Bunyinya yang merdu dan harmonis sering digunakan dalam berbagai acara adat dan pertunjukan musik.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\Gong.jpg</gambar>
+    <nama>Gong </nama>
+    <asal>Sulawesi Selatan</asal>
+    <bahan>Perunggu</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Gong adalah alat musik perkusi yang sangat penting dalam berbagai upacara adat dan pertunjukan musik di Sulawesi Selatan. Bunyinya yang menggema sering digunakan untuk memanggil masyarakat atau menandai dimulainya suatu acara.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\Talindo.jpg</gambar>
+    <nama>Talindo</nama>
+    <asal>Sulawesi Selatan</asal>
+    <bahan>Kayu dan senar</bahan>
+    <caraMain>Dipetik</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Talindo adalah alat musik petik tradisional Sulawesi Selatan yang sering digunakan dalam musik keroncong dan lagu-lagu daerah.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\Lalove.jpg</gambar>
+    <nama>Lalove </nama>
+    <asal>Sulawesi Tengah</asal>
+    <bahan> Bambu </bahan>
+    <caraMain>Ditiup</caraMain>
+    <kategori>Aerofon</kategori>
+    <abstrak> Lalove adalah alat musik tiup tradisional Sulawesi Tengah yang sering digunakan untuk mengiringi tarian dan lagu-lagu daerah.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\Kolintang.jpg</gambar>
+    <nama>Kolintang </nama>
+    <asal>Sulawesi Utara</asal>
+    <bahan>Kayu wange atau kayu nantu</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Idiofon</kategori>
+    <abstrak>Kolintang adalah alat musik perkusi yang unik dari Sulawesi Utara. Bunyinya yang merdu dan harmonis sering digunakan dalam berbagai acara adat dan pertunjukan musik.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\Tifa.jpg</gambar>
+    <nama>Tifa</nama>
+    <asal>Maluku</asal>
+    <bahan>Batang kayu</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Membranofon</kategori>
+    <abstrak>Tifa adalah alat musik perkusi yang sangat penting dalam budaya Maluku dan Papua. Bunyinya yang khas sering digunakan untuk mengiringi tarian adat dan upacara-upacara tradisional.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <nama>Sasando </nama>
+    <gambar>img\Sasando.jpg</gambar>
+    <asal>Nusa Tengara Timur</asal>
+    <bahan>Badan dari labu, leher bambu dan nilon</bahan>
+    <caraMain>Dipetik</caraMain>
+    <kategori>Kordofon</kategori>
+    <abstrak>Sasando adalah alat musik petik tradisional yang sangat populer di Nusa Tenggara Timur. Bunyinya yang khas dan unik sering digunakan dalam musik keroncong dan lagu-lagu daerah.</abstrak>
+</alatMusikTradisional>
+
+<alatMusikTradisional>
+    <gambar>img\Pikon.jpg</gambar>
+    <nama>Pikon </nama>
+    <asal>Papua</asal>
+    <bahan>Serat kulit kayu potongan bambu</bahan>
+    <caraMain>Dipukul</caraMain>
+    <kategori>Membranofon</kategori>
+    <abstrak>Pikon adalah alat musik tradisional Papua yang memiliki bentuk yang unik. Bunyinya yang khas sering digunakan dalam upacara adat dan pertunjukan musik.</abstrak>
+</alatMusikTradisional>
+</alatMusik>
